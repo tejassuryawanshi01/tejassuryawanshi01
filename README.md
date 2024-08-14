@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejassuryawanshi01
-- 👀 I’m interested in ...web design
-- 🌱 I’m currently learning diploma in computer technology 
+- 👀 I’m interested in ...web design,data science
+- 🌱 I’m currently learning b-tech computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
