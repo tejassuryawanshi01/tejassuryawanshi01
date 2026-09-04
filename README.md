@@ -1,15 +1,15 @@
 # TEJAS SURYAWANSHI
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Graduate;AI%2FML+%7C+Python+%7C+Web+Development;Turning+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=750&lines=Generative+AI+Developer;AI+%7C+LLMs+%7C+Python+%7C+AI+Applications;Building+Intelligent+Solutions+with+Generative+AI;Turning+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://tejas-suryawanshi.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Website-0969DA?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0969DA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/tejassuryawanshi01">
-    <img src="https://img.shields.io/badge/💻%20GITHUB-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/💻%20GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -19,48 +19,88 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🤖 About Me
 
-I'm a **Computer Science Engineering graduate** interested in building practical and user-focused software solutions.
+I'm a **Generative AI Developer** and Computer Science Engineering graduate focused on building intelligent, practical, and user-friendly AI applications.
 
-My primary interests include **Artificial Intelligence, Machine Learning, Python, Computer Vision, and Web Development**.
+My work and interests revolve around **Large Language Models, Generative AI, AI APIs, NLP, Machine Learning, Computer Vision, and AI-powered web applications**.
 
-I enjoy taking an idea from **concept → development → deployment**, while continuously learning and improving.
+I enjoy taking an idea from:
 
-> **Learn → Build → Experiment → Improve**
+**💡 Idea → 🧠 AI Architecture → 💻 Development → 🚀 Deployment**
 
----
-
-## ⚡ At a Glance
-
-| 🎓 Education     | 💻 Primary Focus | 🤖 Interests    | ☁️ Exploring |
-| ---------------- | ---------------- | --------------- | ------------ |
-| B.E. CSE         | Python           | AI / ML         | AWS          |
-| Computer Science | Web Development  | Computer Vision | Cloud        |
+My goal is to build AI systems that are not only technically capable, but also **useful, reliable, and easy to interact with**.
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 GenAI Focus
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,opencv,git,github,vscode,aws&perline=6" alt="Tech Stack"/>
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" alt="LLMs"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/AI%20APIs-0969DA?style=for-the-badge" alt="AI APIs"/>
+<img src="https://img.shields.io/badge/NLP-0F766E?style=for-the-badge" alt="NLP"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG"/>
 
 </p>
 
-<p align="center">
+### Areas I'm Interested In
 
-`Python` · `Java` · `C++` · `JavaScript` · `React` · `HTML` · `CSS`
-`Machine Learning` · `Computer Vision` · `OpenCV` · `MediaPipe` · `Git` · `AWS`
+* 🧠 Large Language Models
+* 🤖 AI-powered applications
+* 💬 Conversational AI
+* 🔗 LLM & API integrations
+* ✍️ Prompt Engineering
+* 📚 Retrieval-Augmented Generation
+* 🧩 AI Agents
+* 👁️ Computer Vision
+* 📝 Natural Language Processing
 
+---
+
+# 🛠️ AI & Development Stack
+
+### Programming
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+### Generative AI
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/OpenRouter-5A67D8?style=for-the-badge" alt="OpenRouter"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge" alt="Prompt Engineering"/>
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0969DA?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/NLP-0F766E?style=for-the-badge" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" alt="MediaPipe"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
+</p>
+
+### Web & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,aws&perline=8" alt="Web and Tools"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 GenAI & AI Projects
 
 <p align="center">
-  <i>A selection of projects I've built while exploring AI, ML and Web Development.</i>
+  <i>Projects built while exploring Generative AI, Machine Learning and intelligent applications.</i>
 </p>
 
 <table>
@@ -68,44 +108,36 @@ I enjoy taking an idea from **concept → development → deployment**, while co
 
 <td width="50%" valign="top">
 
-## 🧠 AI Stress Detection
+### 🏥 MediPulse AI
 
-AI-based stress detection system using **MediaPipe and Computer Vision**.
+An AI-powered healthcare platform exploring **AI doctor agents, intelligent consultations, medical report analysis, voice assistance, and AI-driven healthcare experiences**.
 
-### 🔧 Tech
+**Focus**
 
-`Python` `MediaPipe` `OpenCV` `AI`
+`Generative AI` `AI Agents` `LLMs` `Healthcare`
 
-### 🔗 Links
+<br>
 
-<a href="YOUR_STRESS_DETECTION_LIVE_LINK">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-0969DA?style=for-the-badge" alt="Live Demo"/>
-</a>
-
-<a href="https://github.com/tejassuryawanshi01/AI-Stress-Detection-System-Mediapipe">
-<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+<a href="YOUR_MEDIPULSE_LIVE_LINK">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-0969DA?style=for-the-badge" alt="Live Demo"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📰 Fake News Detection
+### 🤖 AI ChatBot
 
-Machine Learning project focused on detecting potentially fake news using **text classification**.
+A conversational AI application using **LLM-based interactions and the OpenAI API**.
 
-### 🔧 Tech
+**Focus**
 
-`Python` `ML` `NLP` `Scikit-Learn` `Pandas`
+`Python` `LLM` `OpenAI API` `Conversational AI`
 
-### 🔗 Links
+<br>
 
-<a href="YOUR_FAKE_NEWS_LIVE_LINK">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-0969DA?style=for-the-badge" alt="Live Demo"/>
-</a>
-
-<a href="https://github.com/tejassuryawanshi01/Fake-News-Detection-using-ml">
-<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+<a href="YOUR_CHATBOT_LINK">
+  <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
 </a>
 
 </td>
@@ -116,121 +148,139 @@ Machine Learning project focused on detecting potentially fake news using **text
 
 <td width="50%" valign="top">
 
-## 🐾 Wildlife Website
+### 🧠 AI Stress Detection
 
-A wildlife-focused web project combining **visual presentation and educational content**.
+Computer Vision application exploring real-time stress-related analysis using **MediaPipe and facial landmarks**.
 
-### 🔧 Tech
+**Focus**
 
-`HTML` `CSS` `JavaScript`
+`Python` `MediaPipe` `OpenCV` `Computer Vision`
 
-### 🔗 Links
+<br>
 
-<a href="YOUR_WILDLIFE_LIVE_LINK">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-0969DA?style=for-the-badge" alt="Live Demo"/>
+<a href="YOUR_STRESS_LIVE_LINK">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-0969DA?style=for-the-badge" alt="Live Demo"/>
 </a>
 
-<a href="https://github.com/tejassuryawanshi01/Final-project-wildlife-website">
-<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+<a href="https://github.com/tejassuryawanshi01/AI-Stress-Detection-System-Mediapipe">
+  <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💼 Personal Portfolio
+### 📰 Fake News Detection
 
-My personal developer portfolio showcasing my **projects, skills and work**.
+Machine Learning application using **NLP and text classification** to identify potentially misleading news content.
 
-### 🔧 Tech
+**Focus**
 
-`Web Development` `JavaScript` `Vercel`
+`Python` `NLP` `Scikit-Learn` `TF-IDF`
 
-### 🔗 Links
+<br>
 
-<a href="https://tejas-suryawanshi.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-0969DA?style=for-the-badge&logo=vercel" alt="Live Portfolio"/>
-</a>
-
-<a href="https://github.com/tejassuryawanshi01/tejas-portfolio">
-<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+<a href="https://github.com/tejassuryawanshi01/Fake-News-Detection-using-ml">
+  <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
 </a>
 
 </td>
 
 </tr>
 </table>
+
+---
+
+# 📚 Research
+
+### AI Healthcare Assistant using Machine Learning & NLP
+
+Research work exploring the application of **Artificial Intelligence, Machine Learning, and Natural Language Processing in healthcare**.
+
+**Research Areas**
+
+`Artificial Intelligence` `Machine Learning` `NLP` `Healthcare`
+
+---
+
+# 🏗️ How I Build AI Applications
+
+```text
+Problem
+   ↓
+Understand the User Need
+   ↓
+Choose AI / LLM Approach
+   ↓
+Design the Application Flow
+   ↓
+Integrate Models / APIs
+   ↓
+Build the User Experience
+   ↓
+Test & Improve
+   ↓
+Deploy 🚀
+```
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tejassuryawanshi01&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tejassuryawanshi01&hide_border=true&theme=transparent" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tejassuryawanshi01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tejassuryawanshi01&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassuryawanshi01&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassuryawanshi01&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
 # 🎯 Currently Exploring
 
-<table>
-<tr>
-<td>🤖 Artificial Intelligence</td>
-<td>🧠 Machine Learning</td>
-</tr>
-<tr>
-<td>👁️ Computer Vision</td>
-<td>☁️ AWS & Cloud</td>
-</tr>
-<tr>
-<td>🐍 Python Development</td>
-<td>🌐 Modern Web Technologies</td>
-</tr>
-</table>
+<p align="center">
+
+`Generative AI` · `LLMs` · `Prompt Engineering` · `AI Agents`
+`RAG` · `NLP` · `AI APIs` · `Computer Vision`
+
+</p>
 
 ---
 
-# 🧩 How I Build
+# 🌐 Portfolio
 
-**01 · Understand**
-Understand the problem and requirements.
+<p align="center">
 
-**02 · Build**
-Turn the idea into a functional solution.
+<a href="https://tejas-suryawanshi.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-0969DA?style=for-the-badge" alt="Portfolio"/>
+</a>
 
-**03 · Experiment**
-Try different technologies and approaches.
-
-**04 · Improve**
-Refine the implementation through testing and learning.
+</p>
 
 ---
 
 # 📸 Beyond Code
 
-Outside development, I enjoy **photography and exploring nature**.
+Photography is one of my creative interests.
 
 <a href="https://github.com/tejassuryawanshi01/vpphotography">
-  📷 <strong>Explore My Photography Project →</strong>
+  📷 <strong>Explore VP Photography →</strong>
 </a>
 
 ---
 
-# 🌐 Let's Connect
+# 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://tejas-suryawanshi.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
 <a href="https://github.com/tejassuryawanshi01">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://tejas-suryawanshi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 </p>
@@ -239,8 +289,8 @@ Outside development, I enjoy **photography and exploring nature**.
 
 <p align="center">
 
-### Turning Ideas into Reality. 🚀
+### 💡 Turning Ideas into Reality. 🚀
 
-<sub>Thanks for visiting my profile.</sub>
+<sub>Building intelligent solutions with Generative AI.</sub>
 
 </p>
