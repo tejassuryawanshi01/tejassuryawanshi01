@@ -1,381 +1,341 @@
 <div align="center">
 
-<p align="center">
-  <code>AI APPLICATION ARCHITECTURE &middot; LLM SYSTEMS &middot; MODERN INTERFACES</code>
+<p>
+  <code>AI APPLICATION ARCHITECTURE · LLM SYSTEMS · MODERN INTERFACES</code>
 </p>
 
-# TEJAS SURYAWANSHI
+<h1>TEJAS SURYAWANSHI</h1>
 
-### GENERATIVE AI DEVELOPER
+<h3>GENERATIVE AI DEVELOPER</h3>
 
-<p align="center">
+<p>
   <em>Building practical AI applications with Generative AI, LLMs, Python &amp; modern web technologies.</em>
 </p>
 
-<p align="center">
+<p>
   <a href="https://tejas-suryawanshi.vercel.app/">
-    <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-111111?style=for-the-badge&logoColor=white" alt="View Portfolio" />
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-111111?style=for-the-badge" alt="View Portfolio">
   </a>
-  &nbsp;
   <a href="https://github.com/tejassuryawanshi01">
-    <img src="https://img.shields.io/badge/GITHUB%20PROFILE-111111?style=for-the-badge&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GITHUB_PROFILE-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=tejassuryawanshi01&label=PROFILE%20VIEWS&style=flat"
-    alt="Profile Views"
-  />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=tejassuryawanshi01&label=PROFILE%20VIEWS&style=flat" alt="Profile Views">
 </p>
 
 </div>
 
+---
 
-## 02 — PROFILE OVERVIEW
+## 01 · ABOUT
 
-Generative AI Developer focused on building practical AI applications, LLM-powered systems, prompt engineering, Natural Language Processing, Machine Learning, Computer Vision, and modern web experiences.
+Computer Science Engineering graduate focused on **Generative AI, Large Language Models, Python, Prompt Engineering and practical AI application development.**
 
-- Building AI-powered applications with Python and modern web technologies
-- Working with Generative AI, Large Language Models, OpenAI API and OpenRouter
-- Developing practical AI applications and intelligent interfaces
-- Applying prompt engineering to real-world AI workflows
-- Exploring modern approaches to AI application development
+My work focuses on turning AI capabilities into practical applications through **LLMs, conversational AI, NLP, Machine Learning, Computer Vision and modern web technologies.**
 
+---
 
-## 03 — ABOUT
-
-Computer Science Engineering graduate focused on Generative AI, Large Language Models, and practical AI application development. Experienced in building functional solutions with Python, modern web frameworks, and targeted prompt engineering. Technical background spans Natural Language Processing, Machine Learning, and Computer Vision, centered on turning AI capabilities into responsive, production-ready applications.
-
-## 04 — GENERATIVE AI FOCUS
+## 02 · GENERATIVE AI FOCUS
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>CORE</h4>
-      <p>
-        Generative AI<br>
-        Large Language Models<br>
-        Prompt Engineering
-      </p>
-    </td>
+<tr>
+<td width="33%" valign="top">
 
-    <td width="33%" valign="top">
-      <h4>BUILD</h4>
-      <p>
-        OpenAI API<br>
-        OpenRouter<br>
-        Conversational AI<br>
-        AI Application Development
-      </p>
-    </td>
+### CORE
 
-    <td width="33%" valign="top">
-      <h4>INTELLIGENCE</h4>
-      <p>
-        Natural Language Processing<br>
-        Computer Vision
-      </p>
-    </td>
-  </tr>
+Generative AI  
+LLMs  
+Prompt Engineering
+
+</td>
+
+<td width="33%" valign="top">
+
+### BUILD
+
+OpenAI API  
+OpenRouter  
+Conversational AI  
+AI Applications
+
+</td>
+
+<td width="33%" valign="top">
+
+### INTELLIGENCE
+
+NLP  
+Computer Vision
+
+</td>
+</tr>
 </table>
 
-## 05 — SELECTED WORK
+---
 
-> AI systems, intelligent applications and modern web experiences.
+## 03 · SELECTED WORK
+
+AI systems, intelligent applications and modern web experiences.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
 
-      <small><code>01 &middot; GENERATIVE AI &middot; HEALTHCARE</code></small>
+<td width="50%" valign="top">
 
-      <h3>MediPulse AI</h3>
+<sub>01</sub>
 
-      <p>
-        AI-powered healthcare platform featuring AI doctor agents,
-        intelligent consultations, medical report OCR analysis,
-        voice assistance, and doctor recommendations.
-      </p>
+### MediPulse AI
 
-      <p>
-        <b>Stack:</b>
-        Next.js &middot;
-        TypeScript &middot;
-        Tailwind CSS &middot;
-        Clerk &middot;
-        Neon PostgreSQL &middot;
-        Generative AI
-      </p>
+**Generative AI · Healthcare**
 
-      <p>
-        <a href="https://ai-medical-agent-lovat.vercel.app/">
-          <img
-            src="https://img.shields.io/badge/LIVE%20DEMO-18181b?style=flat-square&logoColor=white"
-            alt="MediPulse AI Live Demo"
-          />
-        </a>
-      </p>
+AI-powered healthcare platform with AI doctor agents, consultations, report OCR, voice assistance and doctor recommendations.
 
-    </td>
+**TECH**
 
-    <td width="50%" valign="top">
+Next.js · TypeScript · Tailwind CSS · Clerk · Neon PostgreSQL · Generative AI
 
-      <small><code>02 &middot; GENERATIVE AI &middot; LLM</code></small>
+<p>
+<a href="https://ai-medical-agent-lovat.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20↗-18181b?style=flat-square" alt="MediPulse AI">
+</a>
+</p>
 
-      <h3>AI ChatBot</h3>
+</td>
 
-      <p>
-        Conversational AI chatbot built using the OpenAI API
-        with contextual multi-turn conversations.
-      </p>
+<td width="50%" valign="top">
 
-      <p>
-        <b>Stack:</b>
-        Python &middot;
-        OpenAI API &middot;
-        GPT-4.1 Mini &middot;
-        LLM
-      </p>
+<sub>02</sub>
 
-      <p><em>Internal System Service</em></p>
+### AI ChatBot
 
-    </td>
-  </tr>
+**Generative AI · LLM**
 
-  <tr>
-    <td width="50%" valign="top">
+Conversational AI chatbot using the OpenAI API with contextual multi-turn conversations.
 
-      <small><code>03 &middot; ARTIFICIAL INTELLIGENCE &middot; COMPUTER VISION</code></small>
+**TECH**
 
-      <h3>Stress Detection System</h3>
+Python · OpenAI API · GPT-4.1 Mini · LLM
 
-      <p>
-        Real-time stress detection system using facial landmarks
-        and facial movements through MediaPipe Face Mesh.
-      </p>
+<p>
+<sub>INTERNAL SYSTEM SERVICE</sub>
+</p>
 
-      <p>
-        <b>Stack:</b>
-        JavaScript &middot;
-        MediaPipe Face Mesh &middot;
-        Chart.js &middot;
-        HTML &middot;
-        CSS
-      </p>
+</td>
 
-      <p>
-        <a href="https://ai-stress-detection-system-mediapipe-1.onrender.com/login.html">
-          <img
-            src="https://img.shields.io/badge/LIVE%20DEMO-18181b?style=flat-square&logoColor=white"
-            alt="Stress Detection System Live Demo"
-          />
-        </a>
-      </p>
+</tr>
 
-    </td>
+<tr>
 
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
-      <small><code>04 &middot; MACHINE LEARNING &middot; NLP</code></small>
+<sub>03</sub>
 
-      <h3>Fake News Detection</h3>
+### Stress Detection System
 
-      <p>
-        Machine-learning based system for detecting fake news
-        using TF-IDF and Logistic Regression.
-      </p>
+**Artificial Intelligence · Computer Vision**
 
-      <p>
-        <b>Stack:</b>
-        Python &middot;
-        Streamlit &middot;
-        Scikit-learn &middot;
-        TF-IDF &middot;
-        Logistic Regression &middot;
-        NLP
-      </p>
+Real-time stress detection using facial landmarks and facial movements through MediaPipe Face Mesh.
 
-      <p><em>Classification Model Pipeline</em></p>
+**TECH**
 
-    </td>
-  </tr>
+JavaScript · MediaPipe Face Mesh · Chart.js · HTML · CSS
 
-  <tr>
-    <td width="50%" valign="top">
+<p>
+<a href="https://ai-stress-detection-system-mediapipe-1.onrender.com/login.html">
+<img src="https://img.shields.io/badge/LIVE%20↗-18181b?style=flat-square" alt="Stress Detection System">
+</a>
+</p>
 
-      <small><code>05 &middot; CLIENT PROJECT &middot; WEB DEVELOPMENT</code></small>
+</td>
 
-      <h3>VP Photography</h3>
+<td width="50%" valign="top">
 
-      <p>
-        Modern photography portfolio website developed for a client
-        using a React-based web stack and AI-assisted development workflows.
-      </p>
+<sub>04</sub>
 
-      <p>
-        <b>Stack:</b>
-        React &middot;
-        TypeScript &middot;
-        Vite &middot;
-        Tailwind CSS &middot;
-        shadcn/ui
-      </p>
+### Fake News Detection
 
-      <p>
-        <a href="https://vpphotography.lovable.app/">
-          <img
-            src="https://img.shields.io/badge/LIVE%20WEBSITE-18181b?style=flat-square&logoColor=white"
-            alt="VP Photography Live Website"
-          />
-        </a>
-      </p>
+**Machine Learning · NLP**
 
-    </td>
+Machine-learning system for detecting fake news using TF-IDF and Logistic Regression.
 
-    <td width="50%" valign="top">
+**TECH**
 
-      <small><code>06 &middot; WEB DEVELOPMENT &middot; CONSERVATION</code></small>
+Python · Streamlit · Scikit-learn · TF-IDF · Logistic Regression · NLP
 
-      <h3>Wildlife Sanctuary Website</h3>
+<p>
+<sub>CLASSIFICATION MODEL PIPELINE</sub>
+</p>
 
-      <p>
-        Wildlife information website featuring animal categories
-        and conservation awareness content.
-      </p>
+</td>
 
-      <p>
-        <b>Stack:</b>
-        HTML &middot;
-        CSS &middot;
-        JavaScript &middot;
-        PHP &middot;
-        Bootstrap
-      </p>
+</tr>
 
-      <p>
-        <a href="https://wildlifemlg.infinityfree.io/">
-          <img
-            src="https://img.shields.io/badge/LIVE%20WEBSITE-18181b?style=flat-square&logoColor=white"
-            alt="Wildlife Sanctuary Website Live"
-          />
-        </a>
-      </p>
+<tr>
 
-    </td>
-  </tr>
+<td width="50%" valign="top">
+
+<sub>05</sub>
+
+### VP Photography
+
+**Client Project · Web Development**
+
+Modern photography portfolio website developed for a client using a React-based web stack and AI-assisted development workflows.
+
+**TECH**
+
+React · TypeScript · Vite · Tailwind CSS · shadcn/ui
+
+<p>
+<a href="https://vpphotography.lovable.app/">
+<img src="https://img.shields.io/badge/LIVE%20↗-18181b?style=flat-square" alt="VP Photography">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<sub>06</sub>
+
+### Wildlife Sanctuary Website
+
+**Web Development · Conservation**
+
+Wildlife information website featuring animal categories and conservation awareness content.
+
+**TECH**
+
+HTML · CSS · JavaScript · PHP · Bootstrap
+
+<p>
+<a href="https://wildlifemlg.infinityfree.io/">
+<img src="https://img.shields.io/badge/LIVE%20↗-18181b?style=flat-square" alt="Wildlife Sanctuary Website">
+</a>
+</p>
+
+</td>
+
+</tr>
 </table>
 
+---
 
-
-## 06 — RESEARCH
+## 04 · RESEARCH
 
 ### AI Healthcare Assistant using Machine Learning and NLP
 
-**International Journal of Science, Strategic Management and Technology · 2026**
+**Published 2026** · International Journal of Science, Strategic Management and Technology
 
-**DOI:** 10.55041/ijsmt.v2i2.001
+**DOI:** `10.55041/ijsmt.v2i2.001`
 
-**Status:** Peer-Reviewed Publication
+---
 
+## 05 · TECH STACK
 
+<table>
+<tr>
 
-## 07 — TECH STACK
+<td width="50%" valign="top">
 
-**Programming**
+### PROGRAMMING
 
-Python &middot; JavaScript &middot; SQL
+Python · JavaScript · SQL
 
-**Web**
+### WEB
 
-HTML5 &middot; CSS3 &middot; React &middot; Vite &middot; Tailwind CSS
+HTML5 · CSS3 · React · Vite · Tailwind CSS
 
-**AI / ML**
+### AI / MACHINE LEARNING
 
-Generative AI &middot; LLMs &middot; Prompt Engineering &middot; OpenAI API &middot; OpenRouter &middot; NLP &middot; Machine Learning &middot; Computer Vision &middot; MediaPipe &middot; Scikit-learn &middot; TensorFlow
+Generative AI · LLMs · Prompt Engineering · OpenAI API · OpenRouter · NLP · Machine Learning · Computer Vision · MediaPipe · Scikit-learn · TensorFlow
 
-**Tools**
+</td>
 
-Git &middot; GitHub &middot; VS Code &middot; Postman
+<td width="50%" valign="top">
 
-**AI Tools**
+### TOOLS
 
-ChatGPT &middot; Claude &middot; Gemini &middot; GitHub Copilot &middot; Cursor AI &middot; Lovable AI
+Git · GitHub · VS Code · Postman
 
+### AI TOOLS
 
+ChatGPT · Claude · Gemini · GitHub Copilot · Cursor AI · Lovable AI
 
-## 08 — GITHUB ACTIVITY
+</td>
+
+</tr>
+</table>
+
+---
+
+## 06 · GITHUB ACTIVITY
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tejassuryawanshi01&show_icons=true&hide_border=true&rank_icon=github"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassuryawanshi01&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=tejassuryawanshi01&show_icons=true&hide_border=true&rank_icon=github"
+alt="GitHub Stats">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassuryawanshi01&layout=compact&hide_border=true"
+alt="Top Languages">
+
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tejassuryawanshi01&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=tejassuryawanshi01&hide_border=true"
+alt="GitHub Contribution Streak">
+
 </p>
 
 ---
 
-## 09 — CURRENTLY LEARNING
+## 07 · CURRENTLY LEARNING
 
-**FOCUS AREAS**
+**Generative AI** · **Large Language Models** · **Prompt Engineering** · **AI Application Development**
 
-Generative AI &middot; Large Language Models &middot; Prompt Engineering &middot; AI Application Development
+---
 
-
-
-## 10 — CERTIFICATIONS & ACHIEVEMENTS
+## 08 · CERTIFICATIONS & ACHIEVEMENTS
 
 - AI Fundamentals — Accenture / FutureSkills Prime
 - AI for Beginners — HP LIFE
 - Data Science & Analytics — HP LIFE
 - Python Programming Internship — YBI Foundation
-- Contributor — Open Source Connect Global 2026
-- Additional professional certifications
+- Open Source Connect Global 2026 — Contributor
 
+---
 
-
-## 11 — CONNECT
+## 09 · LET'S CONNECT
 
 <p align="center">
 
-  <a href="https://github.com/tejassuryawanshi01">
-    <img
-      src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+<a href="https://github.com/tejassuryawanshi01">
+<img src="https://img.shields.io/badge/GITHUB-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-  &nbsp;
+&nbsp;
 
-  <a href="https://tejas-suryawanshi.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-18181b?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
+<a href="https://tejas-suryawanshi.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-18181b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
 
 </p>
 
-
-
-## 12 — FOOTER
+---
 
 <div align="center">
 
-**BUILD · LEARN · CREATE WITH AI**
+<h3>BUILD · LEARN · CREATE WITH AI</h3>
 
-Designed &amp; Maintained by Tejas Suryawanshi
+Designed &amp; Maintained by <strong>Tejas Suryawanshi</strong>
+
+<br>
 
 © 2026 Tejas Suryawanshi · All Rights Reserved.
 
