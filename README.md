@@ -31,7 +31,6 @@
 
 </div>
 
----
 
 ## 02 — PROFILE OVERVIEW
 
@@ -43,13 +42,10 @@ Generative AI Developer focused on building practical AI applications, LLM-power
 - Applying prompt engineering to real-world AI workflows
 - Exploring modern approaches to AI application development
 
----
 
 ## 03 — ABOUT
 
 Computer Science Engineering graduate focused on Generative AI, Large Language Models, and practical AI application development. Experienced in building functional solutions with Python, modern web frameworks, and targeted prompt engineering. Technical background spans Natural Language Processing, Machine Learning, and Computer Vision, centered on turning AI capabilities into responsive, production-ready applications.
-
----
 
 ## 04 — GENERATIVE AI FOCUS
 
@@ -83,8 +79,6 @@ Computer Science Engineering graduate focused on Generative AI, Large Language M
     </td>
   </tr>
 </table>
-
----
 
 ## 05 — SELECTED WORK
 
@@ -272,7 +266,7 @@ Computer Science Engineering graduate focused on Generative AI, Large Language M
   </tr>
 </table>
 
----
+
 
 ## 06 — RESEARCH
 
@@ -284,7 +278,7 @@ Computer Science Engineering graduate focused on Generative AI, Large Language M
 
 **Status:** Peer-Reviewed Publication
 
----
+
 
 ## 07 — TECH STACK
 
@@ -308,7 +302,7 @@ Git &middot; GitHub &middot; VS Code &middot; Postman
 
 ChatGPT &middot; Claude &middot; Gemini &middot; GitHub Copilot &middot; Cursor AI &middot; Lovable AI
 
----
+
 
 ## 08 — GITHUB ACTIVITY
 
@@ -338,7 +332,7 @@ ChatGPT &middot; Claude &middot; Gemini &middot; GitHub Copilot &middot; Cursor 
 
 Generative AI &middot; Large Language Models &middot; Prompt Engineering &middot; AI Application Development
 
----
+
 
 ## 10 — CERTIFICATIONS & ACHIEVEMENTS
 
@@ -349,7 +343,7 @@ Generative AI &middot; Large Language Models &middot; Prompt Engineering &middot
 - Contributor — Open Source Connect Global 2026
 - Additional professional certifications
 
----
+
 
 ## 11 — CONNECT
 
@@ -373,7 +367,7 @@ Generative AI &middot; Large Language Models &middot; Prompt Engineering &middot
 
 </p>
 
----
+
 
 ## 12 — FOOTER
 
