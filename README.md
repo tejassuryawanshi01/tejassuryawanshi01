@@ -1,215 +1,246 @@
 # TEJAS SURYAWANSHI
 
-### Computer Science Engineering Graduate
-
-**AI/ML • Python • Web Development • Problem Solving**
-
 <p align="center">
-  <strong>Turning Ideas into Reality. 🚀</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tejassuryawanshi01&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Graduate;AI%2FML+%7C+Python+%7C+Web+Development;Turning+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://tejas-suryawanshi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Website-0969DA?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://github.com/tejassuryawanshi01">
-    <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/💻%20GITHUB-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejassuryawanshi01&label=PROFILE%20VIEWS&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I am a **Computer Science Engineering graduate** interested in building practical software solutions using **Artificial Intelligence, Machine Learning, Python, and Web Technologies**.
+I'm a **Computer Science Engineering graduate** interested in building practical and user-focused software solutions.
 
-I enjoy turning ideas into working projects, exploring new technologies, and continuously improving my technical and problem-solving skills.
+My primary interests include **Artificial Intelligence, Machine Learning, Python, Computer Vision, and Web Development**.
 
-My approach is simple:
+I enjoy taking an idea from **concept → development → deployment**, while continuously learning and improving.
 
-**Learn → Build → Experiment → Improve**
-
-I aim to build technology that is practical, useful, and user-focused.
+> **Learn → Build → Experiment → Improve**
 
 ---
 
-## 🧭 Quick Profile
+## ⚡ At a Glance
 
-| Category            | Details                                 |
-| ------------------- | --------------------------------------- |
-| 🎓 Education        | B.E. Computer Science Engineering       |
-| 💻 Primary Language | Python                                  |
-| 🤖 Focus Areas      | AI • Machine Learning • Computer Vision |
-| 🌐 Development      | Web Development                         |
-| ☁️ Exploring        | AWS & Cloud Technologies                |
-| 📍 Location         | India                                   |
+| 🎓 Education     | 💻 Primary Focus | 🤖 Interests    | ☁️ Exploring |
+| ---------------- | ---------------- | --------------- | ------------ |
+| B.E. CSE         | Python           | AI / ML         | AWS          |
+| Computer Science | Web Development  | Computer Vision | Cloud        |
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages & Programming
+<p align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,opencv,git,github,vscode,aws&perline=6" alt="Tech Stack"/>
+
 </p>
 
-### AI / Machine Learning
+<p align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
+`Python` · `Java` · `C++` · `JavaScript` · `React` · `HTML` · `CSS`
+`Machine Learning` · `Computer Vision` · `OpenCV` · `MediaPipe` · `Git` · `AWS`
 
-### Web Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-</p>
-
-### Tools & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🧠 AI Stress Detection System
+<p align="center">
+  <i>A selection of projects I've built while exploring AI, ML and Web Development.</i>
+</p>
 
-An AI-based project exploring stress detection using **MediaPipe and Computer Vision**.
+<table>
+<tr>
 
-**Tech:** `Python` `MediaPipe` `OpenCV` `Computer Vision`
+<td width="50%" valign="top">
 
-[**View Repository →**](https://github.com/tejassuryawanshi01/AI-Stress-Detection-System-Mediapipe)
+## 🧠 AI Stress Detection
 
----
+AI-based stress detection system using **MediaPipe and Computer Vision**.
 
-### 📰 Fake News Detection
+### 🔧 Tech
 
-A Machine Learning project focused on detecting potentially fake news using **text-based classification**.
+`Python` `MediaPipe` `OpenCV` `AI`
 
-**Tech:** `Python` `Machine Learning` `Scikit-Learn` `Pandas` `NLP`
+### 🔗 Links
 
-[**View Repository →**](https://github.com/tejassuryawanshi01/Fake-News-Detection-using-ml)
+<a href="YOUR_STRESS_DETECTION_LIVE_LINK">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-0969DA?style=for-the-badge" alt="Live Demo"/>
+</a>
 
----
+<a href="https://github.com/tejassuryawanshi01/AI-Stress-Detection-System-Mediapipe">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+</a>
 
-### 🐾 Wildlife Website
+</td>
 
-A wildlife-focused web project combining **web development, visual presentation, and educational content**.
+<td width="50%" valign="top">
 
-**Tech:** `HTML` `CSS` `JavaScript`
+## 📰 Fake News Detection
 
-[**View Repository →**](https://github.com/tejassuryawanshi01/Final-project-wildlife-website)
+Machine Learning project focused on detecting potentially fake news using **text classification**.
 
----
+### 🔧 Tech
 
-### 💼 Personal Portfolio
+`Python` `ML` `NLP` `Scikit-Learn` `Pandas`
 
-My personal portfolio showcasing my **projects, skills, and developer journey**.
+### 🔗 Links
 
-**Tech:** `Web Development` `JavaScript` `Vercel`
+<a href="YOUR_FAKE_NEWS_LIVE_LINK">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-0969DA?style=for-the-badge" alt="Live Demo"/>
+</a>
 
-[**🌐 Visit Live Portfolio →**](https://tejas-suryawanshi.vercel.app/)
+<a href="https://github.com/tejassuryawanshi01/Fake-News-Detection-using-ml">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+</a>
 
-[**💻 View Repository →**](https://github.com/tejassuryawanshi01/tejas-portfolio)
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🐾 Wildlife Website
+
+A wildlife-focused web project combining **visual presentation and educational content**.
+
+### 🔧 Tech
+
+`HTML` `CSS` `JavaScript`
+
+### 🔗 Links
+
+<a href="YOUR_WILDLIFE_LIVE_LINK">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-0969DA?style=for-the-badge" alt="Live Demo"/>
+</a>
+
+<a href="https://github.com/tejassuryawanshi01/Final-project-wildlife-website">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💼 Personal Portfolio
+
+My personal developer portfolio showcasing my **projects, skills and work**.
+
+### 🔧 Tech
+
+`Web Development` `JavaScript` `Vercel`
+
+### 🔗 Links
+
+<a href="https://tejas-suryawanshi.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-0969DA?style=for-the-badge&logo=vercel" alt="Live Portfolio"/>
+</a>
+
+<a href="https://github.com/tejassuryawanshi01/tejas-portfolio">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejassuryawanshi01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tejassuryawanshi01&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tejassuryawanshi01&hide_border=true&theme=transparent" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassuryawanshi01&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejassuryawanshi01&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassuryawanshi01&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
 </p>
 
 ---
 
-# 🔭 Currently Exploring
+# 🎯 Currently Exploring
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 👁️ Computer Vision
-* 🐍 Python Development
-* 🌐 Web Technologies
-* ☁️ AWS & Cloud Technologies
+<table>
+<tr>
+<td>🤖 Artificial Intelligence</td>
+<td>🧠 Machine Learning</td>
+</tr>
+<tr>
+<td>👁️ Computer Vision</td>
+<td>☁️ AWS & Cloud</td>
+</tr>
+<tr>
+<td>🐍 Python Development</td>
+<td>🌐 Modern Web Technologies</td>
+</tr>
+</table>
 
 ---
 
-# 🧩 My Development Approach
+# 🧩 How I Build
 
 **01 · Understand**
-Understand the problem and requirements before building.
+Understand the problem and requirements.
 
 **02 · Build**
-Turn ideas into functional applications and prototypes.
+Turn the idea into a functional solution.
 
 **03 · Experiment**
-Explore different tools, techniques, and approaches.
+Try different technologies and approaches.
 
 **04 · Improve**
-Refine the implementation and learn from every iteration.
+Refine the implementation through testing and learning.
 
 ---
 
 # 📸 Beyond Code
 
-When I'm away from development, I enjoy **photography and exploring nature**.
+Outside development, I enjoy **photography and exploring nature**.
 
-📷 [**Explore My Photography Project →**](https://github.com/tejassuryawanshi01/vpphotography)
-
----
-
-# 🌐 Explore My Work
-
-<p align="center">
-  <a href="https://tejas-suryawanshi.vercel.app/">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Portfolio"/>
-  </a>
-</p>
+<a href="https://github.com/tejassuryawanshi01/vpphotography">
+  📷 <strong>Explore My Photography Project →</strong>
+</a>
 
 ---
 
-# 🤝 Connect
+# 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/tejassuryawanshi01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://tejas-suryawanshi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+
+<a href="https://tejas-suryawanshi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://github.com/tejassuryawanshi01">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <strong>Turning Ideas into Reality. 🚀</strong>
-  <br/>
-  <sub>Thanks for visiting my profile!</sub>
+
+### Turning Ideas into Reality. 🚀
+
+<sub>Thanks for visiting my profile.</sub>
+
 </p>
