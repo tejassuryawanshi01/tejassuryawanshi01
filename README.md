@@ -1,296 +1,260 @@
-# TEJAS SURYAWANSHI
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=750&lines=Generative+AI+Developer;AI+%7C+LLMs+%7C+Python+%7C+AI+Applications;Building+Intelligent+Solutions+with+Generative+AI;Turning+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG"/>
-</p>
+# 👋 Hi, I'm Tejas Suryawanshi
 
-<p align="center">
+### 🤖 Generative AI Developer
+
+**Building intelligent applications with Generative AI, LLMs & Python**
+
+<p>
   <a href="https://tejas-suryawanshi.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0969DA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-111827?style=for-the-badge" />
   </a>
   <a href="https://github.com/tejassuryawanshi01">
-    <img src="https://img.shields.io/badge/💻%20GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tejassuryawanshi01&label=PROFILE%20VIEWS&style=flat-square" alt="Profile Views"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Generative+AI+Developer;LLM+%7C+Prompt+Engineering+%7C+AI+Applications;Python+%7C+OpenAI+API+%7C+NLP;Building+Practical+AI-powered+Solutions" />
+
+</div>
 
 ---
 
-## 🤖 About Me
+## 🧠 About Me
 
-I'm a **Generative AI Developer** and Computer Science Engineering graduate focused on building intelligent, practical, and user-friendly AI applications.
+I'm a **Computer Science Engineering graduate** focused on building practical applications using **Generative AI, Large Language Models and Python**.
 
-My work and interests revolve around **Large Language Models, Generative AI, AI APIs, NLP, Machine Learning, Computer Vision, and AI-powered web applications**.
+I enjoy turning ideas into AI-powered products — from conversational AI and healthcare assistants to computer-vision and machine-learning systems.
 
-I enjoy taking an idea from:
-
-**💡 Idea → 🧠 AI Architecture → 💻 Development → 🚀 Deployment**
-
-My goal is to build AI systems that are not only technically capable, but also **useful, reliable, and easy to interact with**.
-
----
-
-# 🧠 GenAI Focus
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" alt="LLMs"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/badge/AI%20APIs-0969DA?style=for-the-badge" alt="AI APIs"/>
-<img src="https://img.shields.io/badge/NLP-0F766E?style=for-the-badge" alt="NLP"/>
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG"/>
-
-</p>
-
-### Areas I'm Interested In
-
-* 🧠 Large Language Models
-* 🤖 AI-powered applications
-* 💬 Conversational AI
-* 🔗 LLM & API integrations
-* ✍️ Prompt Engineering
-* 📚 Retrieval-Augmented Generation
-* 🧩 AI Agents
-* 👁️ Computer Vision
-* 📝 Natural Language Processing
+* 🤖 Focused on **Generative AI & LLM Applications**
+* 🐍 Strong interest in **Python & AI development**
+* 🧩 Exploring **Prompt Engineering & AI Application Development**
+* 🧠 Interested in **NLP, Machine Learning & Computer Vision**
+* 🚀 Building practical, user-focused AI solutions
+* 📚 Published research in **AI Healthcare**
 
 ---
 
-# 🛠️ AI & Development Stack
+## ⚡ Generative AI Focus
 
-### Programming
+<div align="center">
+
+| Area                 | Focus                                            |
+| -------------------- | ------------------------------------------------ |
+| 🤖 Generative AI     | AI-powered applications & intelligent assistants |
+| 🧠 LLMs              | Large Language Model applications                |
+| ✨ Prompt Engineering | Structured prompting & AI workflows              |
+| 🔌 AI APIs           | OpenAI API, OpenRouter                           |
+| 💬 Conversational AI | Context-aware multi-turn interactions            |
+| 🏥 AI Applications   | Healthcare & domain-specific AI solutions        |
+| 📝 NLP               | Text processing & classification                 |
+| 👁️ Computer Vision  | MediaPipe & vision-based applications            |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI & Generative AI
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-### Generative AI
+**Generative AI:** OpenAI API · OpenRouter · LLMs · Prompt Engineering · AI Application Development
+
+### 💻 Programming
 
 <p>
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
-  <img src="https://img.shields.io/badge/OpenRouter-5A67D8?style=for-the-badge" alt="OpenRouter"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge" alt="Prompt Engineering"/>
+<img src="https://skillicons.dev/icons?i=python,js,sql" />
 </p>
 
-### AI / Machine Learning
+### 🌐 Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-0969DA?style=for-the-badge" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/NLP-0F766E?style=for-the-badge" alt="NLP"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" alt="MediaPipe"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
 </p>
 
-### Web & Tools
+### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,aws&perline=8" alt="Web and Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+**AI Tools:** ChatGPT · Claude · Gemini · GitHub Copilot · Cursor AI · Lovable AI
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 MediPulse AI
+
+**Generative AI · Healthcare**
+
+AI-powered healthcare platform designed to provide intelligent healthcare assistance through AI doctor agents, intelligent consultations, medical report OCR analysis, voice assistance and doctor recommendations.
+
+**Tech:** Next.js · TypeScript · Tailwind CSS · Clerk · Neon PostgreSQL · Generative AI
+
+<p>
+<a href="https://ai-medical-agent-lovat.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-Visit-111827?style=for-the-badge" />
+</a>
 </p>
 
 ---
 
-# 🚀 GenAI & AI Projects
+## 🤖 AI ChatBot
 
-<p align="center">
-  <i>Projects built while exploring Generative AI, Machine Learning and intelligent applications.</i>
+**Generative AI · LLM**
+
+A conversational AI chatbot built using the OpenAI API with support for contextual multi-turn conversations.
+
+**Tech:** Python · OpenAI API · GPT-4.1 Mini · LLM
+
+---
+
+## 🧠 Stress Detection System
+
+**Artificial Intelligence · Computer Vision**
+
+Real-time stress detection system using facial landmarks and facial movements through MediaPipe Face Mesh.
+
+**Tech:** JavaScript · MediaPipe Face Mesh · Chart.js · HTML · CSS
+
+<p>
+<a href="https://ai-stress-detection-system-mediapipe-1.onrender.com/login.html">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-Visit-111827?style=for-the-badge" />
+</a>
 </p>
 
-<table>
-<tr>
+---
 
-<td width="50%" valign="top">
+## 📰 Fake News Detection
 
-### 🏥 MediPulse AI
+**Machine Learning · NLP**
 
-An AI-powered healthcare platform exploring **AI doctor agents, intelligent consultations, medical report analysis, voice assistance, and AI-driven healthcare experiences**.
+Machine-learning based system for detecting fake news using text processing and classification techniques.
 
-**Focus**
-
-`Generative AI` `AI Agents` `LLMs` `Healthcare`
-
-<br>
-
-<a href="YOUR_MEDIPULSE_LIVE_LINK">
-  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-0969DA?style=for-the-badge" alt="Live Demo"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI ChatBot
-
-A conversational AI application using **LLM-based interactions and the OpenAI API**.
-
-**Focus**
-
-`Python` `LLM` `OpenAI API` `Conversational AI`
-
-<br>
-
-<a href="YOUR_CHATBOT_LINK">
-  <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 AI Stress Detection
-
-Computer Vision application exploring real-time stress-related analysis using **MediaPipe and facial landmarks**.
-
-**Focus**
-
-`Python` `MediaPipe` `OpenCV` `Computer Vision`
-
-<br>
-
-<a href="YOUR_STRESS_LIVE_LINK">
-  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-0969DA?style=for-the-badge" alt="Live Demo"/>
-</a>
-
-<a href="https://github.com/tejassuryawanshi01/AI-Stress-Detection-System-Mediapipe">
-  <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📰 Fake News Detection
-
-Machine Learning application using **NLP and text classification** to identify potentially misleading news content.
-
-**Focus**
-
-`Python` `NLP` `Scikit-Learn` `TF-IDF`
-
-<br>
-
-<a href="https://github.com/tejassuryawanshi01/Fake-News-Detection-using-ml">
-  <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+**Tech:** Python · Streamlit · Scikit-learn · TF-IDF · Logistic Regression · NLP
 
 ---
 
-# 📚 Research
+## 📸 VP Photography
 
-### AI Healthcare Assistant using Machine Learning & NLP
+**Client Project · Web Development**
 
-Research work exploring the application of **Artificial Intelligence, Machine Learning, and Natural Language Processing in healthcare**.
+A modern photography portfolio website developed for a client using a contemporary React-based web stack and AI-assisted development workflows.
 
-**Research Areas**
+**Tech:** React · TypeScript · Vite · Tailwind CSS · shadcn/ui
 
-`Artificial Intelligence` `Machine Learning` `NLP` `Healthcare`
+<p>
+<a href="https://vpphotography.lovable.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Website-Visit-111827?style=for-the-badge" />
+</a>
+</p>
 
 ---
 
-# 🏗️ How I Build AI Applications
+## 🐾 Wildlife Sanctuary Website
 
-```text
-Problem
-   ↓
-Understand the User Need
-   ↓
-Choose AI / LLM Approach
-   ↓
-Design the Application Flow
-   ↓
-Integrate Models / APIs
-   ↓
-Build the User Experience
-   ↓
-Test & Improve
-   ↓
-Deploy 🚀
-```
+**Web Development · Conservation**
+
+A wildlife information website featuring animal categories and conservation awareness content.
+
+**Tech:** HTML · CSS · JavaScript · PHP · Bootstrap
+
+<p>
+<a href="https://wildlifemlg.infinityfree.io/">
+<img src="https://img.shields.io/badge/🚀_Live_Website-Visit-111827?style=for-the-badge" />
+</a>
+</p>
+
+---
+
+# 📚 Research Publication
+
+### AI Healthcare Assistant using Machine Learning and NLP
+
+Research publication focused on applying **Machine Learning and Natural Language Processing** to develop an AI-powered healthcare assistant.
+
+**Published:** 2026
+**Journal:** International Journal of Science, Strategic Management and Technology
+**DOI:** `10.55041/ijsmt.v2i2.001`
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tejassuryawanshi01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tejassuryawanshi01&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassuryawanshi01&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=tejassuryawanshi01&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=1800" height="180" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassuryawanshi01&layout=compact&hide_border=true&theme=transparent&langs_count=8&cache_seconds=1800" height="180" />
 
-# 🎯 Currently Exploring
-
-<p align="center">
-
-`Generative AI` · `LLMs` · `Prompt Engineering` · `AI Agents`
-`RAG` · `NLP` · `AI APIs` · `Computer Vision`
-
-</p>
+</div>
 
 ---
 
-# 🌐 Portfolio
+# 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejassuryawanshi01&theme=github-compact&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```text
+Generative AI
+     ↓
+Large Language Models
+     ↓
+Prompt Engineering
+     ↓
+AI Application Development
+     ↓
+Building Production-oriented AI Solutions
+```
+
+---
+
+# 🏆 Certifications & Achievements
+
+* 🥇 AI Fundamentals — Accenture / FutureSkills Prime
+* 🤖 AI for Beginners — HP LIFE
+* 📊 Data Science & Analytics — HP LIFE
+* 🐍 Python Programming Internship — YBI Foundation
+* 🌍 Open Source Connect Global 2026 — Contributor
+* 📜 Additional professional certifications
+
+---
+
+# 🎯 What I'm Looking For
+
+I'm interested in opportunities where I can work on:
+
+**Generative AI · LLM Applications · AI Assistants · Python · NLP · Machine Learning · AI-powered Products**
+
+and contribute to building **useful, practical and scalable AI solutions**.
+
+---
+
+<div align="center">
+
+### 🤖 Build with AI. Learn continuously. Create something useful.
 
 <a href="https://tejas-suryawanshi.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-0969DA?style=for-the-badge" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-111827?style=for-the-badge" />
 </a>
 
-</p>
+<br><br>
 
----
+<img src="https://komarev.com/ghpvc/?username=tejassuryawanshi01&style=flat-square&color=grey" />
 
-# 📸 Beyond Code
-
-Photography is one of my creative interests.
-
-<a href="https://github.com/tejassuryawanshi01/vpphotography">
-  📷 <strong>Explore VP Photography →</strong>
-</a>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/tejassuryawanshi01">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://tejas-suryawanshi.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 💡 Turning Ideas into Reality. 🚀
-
-<sub>Building intelligent solutions with Generative AI.</sub>
-
-</p>
+</div>
