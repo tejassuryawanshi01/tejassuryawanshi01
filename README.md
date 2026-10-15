@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- THEME-AWARE HEADER BANNER (Optional: Replace with a real asset if you have one, currently using a stylized text approach) -->
+<!-- HEADER ARCHITECTURE -->
 <p align="center">
-  <code>INTELLIGENCE ARCHITECTURE • LLM SYSTEMS • MODERN INTERFACES</code>
+  <code>AI AGENT ARCHITECTURE • RAG SYSTEMS • LLM ORCHESTRATION</code>
 </p>
 
 # TEJAS SURYAWANSHI
 **GENERATIVE AI DEVELOPER**
 
 <p align="center">
-  <em>Engineering practical AI applications by bridging Large Language Models with production-ready software architectures.</em>
+  <em>Engineering autonomous agents and RAG-powered systems that bridge Large Language Models with real-world data.</em>
 </p>
 
-<!-- NAVIGATION BADGES -->
+<!-- NAVIGATION -->
 <p align="center">
   <a href="https://tejas-suryawanshi.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-121212?style=for-the-badge" alt="Portfolio">
@@ -27,32 +27,32 @@
 
 <br/>
 
-<!-- DYNAMIC IDENTITY SECTION -->
+<!-- 01: IDENTITY & GEN AI FOCUS -->
 <table width="100%">
   <tr>
     <td>
       <strong>01 • IDENTITY</strong><br/>
-      Computer Science Engineering graduate focused on <strong>LLM orchestration</strong> and <strong>conversational intelligence</strong>. I transform abstract AI capabilities into structured, high-utility software through Python-driven logic and modern full-stack development.
+      Computer Science Engineering graduate specializing in <strong>Agentic AI</strong> and <strong>Retrieval-Augmented Generation (RAG)</strong>. I focus on building intelligent chatbots and autonomous agents that utilize function calling, external tool integration, and vector-based memory to solve complex domain-specific tasks.
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- DYNAMIC TECH GRID -->
-### 02 • TECHNICAL ECOSYSTEM
+<!-- 02: THE GEN AI STACK -->
+### 02 • GENERATIVE AI ECOSYSTEM
 
-| **INTELLIGENCE** | **SYSTEMS** | **INTERFACES** |
+| **INTELLIGENCE** | **ORCHESTRATION** | **INFRASTRUCTURE** |
 | :--- | :--- | :--- |
-| Generative AI • LLMs | Python • JavaScript • SQL | Next.js • React • Vite |
-| Prompt Engineering | Scikit-learn • TensorFlow | TypeScript • Tailwind CSS |
-| OpenAI API • OpenRouter | PostgreSQL • Neon | Clerk • shadcn/ui |
-| NLP • Machine Learning | MediaPipe • TF-IDF | HTML • CSS |
+| **Generative AI & LLMs** | **AI Agents & Chatbots** | **Python & SQL** |
+| **RAG (Retrieval Systems)** | **Function Calling** | **Vector Search** |
+| **Prompt Engineering** | **OpenAI API & OpenRouter** | **PostgreSQL & Neon** |
+| **NLP & Machine Learning** | **Context Management** | **Clerk & Next.js** |
 
 <br/>
 
-<!-- DYNAMIC STATS (AUTO THEME SWITCHING) -->
-### 03 • ECOSYSTEM ACTIVITY
+<!-- 03: DYNAMIC ACTIVITY (THEME AWARE) -->
+### 03 • DEVELOPMENT VELOCITY
 
 <p align="left">
   <!-- GitHub Stats Card -->
@@ -70,38 +70,38 @@
 
 <br/>
 
-<!-- SELECTED WORK SECTION -->
+<!-- 04: SELECTED CASE STUDIES -->
 ### 04 • SELECTED WORK
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <sub>CASE 01 / HEALTHCARE</sub><br/>
+      <sub>CASE 01 / AI AGENTS</sub><br/>
       <strong>MEDIPULSE AI</strong><br/>
-      Healthcare ecosystem featuring report OCR and autonomous consultations.<br/>
-      <code>Next.js</code> <code>TypeScript</code> <code>GenAI</code><br/>
+      An agentic healthcare platform with autonomous doctor agents, OCR analysis, and voice assistance.<br/>
+      <code>GenAI Agents</code> <code>Next.js</code> <code>PostgreSQL</code><br/>
       <a href="https://ai-medical-agent-lovat.vercel.app/">Live System ↗</a>
     </td>
     <td width="50%" valign="top">
       <sub>CASE 02 / COMPUTER VISION</sub><br/>
       <strong>STRESS DETECTION SYSTEM</strong><br/>
-      Behavioral stress pattern detection through CV landmark analysis.<br/>
+      Real-time behavioral stress analysis through CV landmarking and facial movement tracking.<br/>
       <code>MediaPipe</code> <code>JavaScript</code> <code>Chart.js</code><br/>
       <a href="https://ai-stress-detection-system-mediapipe-1.onrender.com/">Live Demo ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>CASE 03 / LLM</sub><br/>
+      <sub>CASE 03 / CHATBOTS & RAG</sub><br/>
       <strong>AI CHATBOT ENGINE</strong><br/>
-      Contextual reasoning engine via OpenAI API.<br/>
-      <code>Python</code> <code>Context Management</code><br/>
+      Retrieval-augmented conversational system utilizing OpenAI for multi-turn contextual reasoning.<br/>
+      <code>OpenAI API</code> <code>RAG</code> <code>Python</code><br/>
       <small>SYSTEM SERVICE</small>
     </td>
     <td width="50%" valign="top">
       <sub>CASE 04 / NLP</sub><br/>
       <strong>FAKE NEWS DETECTION</strong><br/>
-      ML pipeline utilizing TF-IDF for text classification.<br/>
+      Machine Learning pipeline utilizing TF-IDF and Logistic Regression for classification tasks.<br/>
       <code>Scikit-learn</code> <code>NLP Pipeline</code><br/>
       <small>MODEL PIPELINE</small>
     </td>
@@ -110,11 +110,13 @@
 
 <br/>
 
-<!-- RESEARCH SECTION -->
+<!-- 05: RESEARCH HIGHLIGHT -->
 ### 05 • RESEARCH & PUBLICATIONS
 
 > **AI Healthcare Assistant using Machine Learning and NLP**
-> *Published 2026 • Int. Journal of Science, Strategic Management and Tech.*
+> *Published 2026 • International Journal of Science, Strategic Management and Technology*
+> 
+> Investigating the synthesis of NLP and agentic workflows to enhance patient-centric assistance.
 > 
 > **DOI:** [`10.55041/ijsmt.v2i2.001`](https://doi.org/10.55041/ijsmt.v2i2.001)
 
