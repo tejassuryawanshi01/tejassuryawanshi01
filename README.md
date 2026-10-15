@@ -145,9 +145,13 @@
       <code>BUILD • EXPERIMENT • ENGINEER</code>
     </td>
     <td align="right">
-      <strong>© 2026 TEJAS SURYAWANSHI</strong>
+      <img src="https://komarev.com/ghpvc/?username=tejassuryawanshi01&label=PROFILE%20VIEWS&style=flat-square&color=121212" alt="Profile Views">
     </td>
   </tr>
 </table>
+
+<p align="center">
+<sub>© 2026 Tejas Suryawanshi</sub>
+</p>
 
 </div>
