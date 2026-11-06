@@ -1,49 +1,188 @@
-# 💫 About Me:
-Computer Science Engineering graduate specializing in Agentic AI and Retrieval-Augmented Generation (RAG). I focus on building intelligent chatbots and autonomous agents that utilize function calling, external tool integration, and vector-based memory to solve complex domain-specific tasks.
+# 👋 Hi, I'm Tejas Suryawanshi
 
-## 🤖 Generative AI & Agentic AI:
-- **Generative AI:** Large Language Models (LLMs), AI-powered applications, and conversational AI.
-- **LLM Applications:** LLM Integration, Prompt Engineering, Context Management, and Response Generation.
-- **RAG (Retrieval-Augmented Generation):** Document Processing, Embeddings, Semantic Search, Vector-Based Retrieval, and Context-Aware Responses.
-- **AI Agents:** Agentic AI, Autonomous Workflows, Multi-step Reasoning, and Task Automation.
-- **Tool Integration:** Function Calling, External API Integration, and Tool-Using AI Agents.
-- **Memory Systems:** Conversation Memory, Context Retention, and Vector-Based Memory.
-- **AI Applications:** Intelligent Chatbots, AI Assistants, Voice-Based AI, and Domain-Specific AI Solutions.
+### Python Developer | Generative AI Engineer | Software Developer
 
-**Generative AI Tools & Technologies**
+I build software applications and AI-powered solutions using Python, Generative AI, Machine Learning, and modern web technologies.
 
-![OpenRouter](https://img.shields.io/badge/OpenRouter-646464?style=for-the-badge&logo=openrouter&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Whisper](https://img.shields.io/badge/Whisper%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vapi](https://img.shields.io/badge/Vapi%20AI-000000?style=for-the-badge)
+My interests include **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, intelligent chatbots, and backend development.**
 
-**Core GenAI Concepts**
-
-`LLMs` `Prompt Engineering` `RAG` `AI Agents` `Agentic AI` `Function Calling` `Tool Integration` `Embeddings` `Vector Search` `Semantic Search` `Conversational Memory` `Context Management` `AI Workflows`
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejassuryawanshi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejassuryawanshi0001@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tejassuryawanshi01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=tejassuryawanshi01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tejassuryawanshi01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tejassuryawanshi01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tejassuryawanshi01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 Working on AI-powered applications and software projects
+- 🤖 Exploring Generative AI, LLM applications, RAG, and Agentic AI
+- 🐍 Focused on Python development and its ecosystem
+- 💡 Interested in building practical solutions to real-world problems
+- 📚 Research publication in AI and Healthcare
 
 ---
-[![](https://komarev.com/ghpvc/?username=tejassuryawanshi01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+## 🤖 Generative AI & LLM Technologies
+
+- Generative AI and Large Language Models (LLMs)
+- Prompt Engineering and Context Engineering
+- Retrieval-Augmented Generation (RAG)
+- AI Agents and Agentic AI
+- Function Calling and Tool Integration
+- LLM API Integration
+- Embeddings and Semantic Search
+- Vector Databases and Conversational Memory
+- AI Chatbots and Conversational AI
+- Speech-to-Text and AI Voice Integration
+- Multi-step AI Workflows
+
+## 🐍 Python & Its Ecosystem
+
+**Core Python & Standard Library**
+
+`OOP` `Functions` `Decorators` `Exception Handling` `File Handling` `Modules & Packages` `Virtual Environments`
+
+`os` `sys` `json` `re` `math` `datetime` `collections` `itertools` `functools` `pathlib` `logging` `subprocess` `asyncio` `threading` `multiprocessing` `typing`
+
+**Python Libraries & Frameworks**
+
+`NumPy` `Pandas` `Matplotlib` `SciPy` `Scikit-learn` `TensorFlow` `Keras` `PyTorch` `OpenCV` `Pillow` `NLTK`
+
+`Flask` `FastAPI` `Streamlit` `Requests` `Pydantic`
+
+## 🛠️ GenAI Tools & Technologies
+
+`OpenAI API` `Google Gemini` `OpenRouter` `Hugging Face` `Whisper AI` `Vapi AI`
+
+`LLMs` `Embeddings` `Vector Search` `RAG Pipelines` `AI Agent Workflows` `Function Calling`
+
+## 💻 Tech Stack
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Frameworks**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**AI, ML & Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Developer Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 1. MediPulse - AI Healthcare Assistant
+AI-powered healthcare application combining Machine Learning and NLP for symptom analysis, disease prediction, medical report processing, and X-ray analysis.
+
+**Technologies:** Python, Flask, Machine Learning, NLP, BioBERT, TensorFlow, OpenCV, Tesseract OCR, Whisper AI.
+
+### 2. Civic Setu
+A civic complaint management platform designed to help citizens submit and track complaints while enabling administrators and field officers to manage complaint resolution.
+
+**Focus:** Complaint Management, User Roles, Complaint Tracking, Web Application Development.
+
+### 3. AI ChatBot
+An AI-powered chatbot project focused on conversational interactions and intelligent responses.
+
+**Focus:** Python, AI, LLM Integration, Conversational AI.
+
+### 4. Stress Detection System
+A computer vision-based system that analyzes facial landmarks and visual signals for stress-related indicators.
+
+**Technologies:** Python, MediaPipe, OpenCV, Computer Vision.
+
+### 5. Fake News Detection
+A Machine Learning and NLP-based project designed to classify news content and identify potentially misleading information.
+
+**Focus:** Python, NLP, Machine Learning.
+
+### 6. VP Photography
+A photography portfolio website showcasing visual work through a modern and responsive web interface.
+
+**Technologies:** React, TypeScript, Vite, Tailwind CSS.
+
+### 7. Wildlife Sanctuary Website
+A website presenting wildlife sanctuary information and related content through a web interface.
+
+**Technologies:** HTML, CSS, JavaScript, Bootstrap.
+
+---
+
+## 📚 Research Publication
+
+**AI Healthcare Assistant Using Machine Learning and NLP**
+
+- Journal: IJSMT Journal
+- Volume: 02
+- Issue: 02
+- Published: February 2026
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech) - Computer Science & Engineering**  
+Sandip University, Nashik | 2023–2026
+
+**Diploma - Computer Technology**  
+K.B.H. Polytechnic, Malegaon | 2020–2023
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejassuryawanshi01&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tejassuryawanshi01&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejassuryawanshi01&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tejassuryawanshi01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejassuryawanshi/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tejas-suryawanshi.vercel.app/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejassuryawanshi0001@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejassuryawanshi01&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
