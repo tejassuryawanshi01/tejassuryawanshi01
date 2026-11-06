@@ -1,143 +1,31 @@
-<div align="center">
+# 💫 About Me:
+Computer Science Engineering graduate specializing in Agentic AI and Retrieval-Augmented Generation (RAG). I focus on building intelligent chatbots and autonomous agents that utilize function calling, external tool integration, and vector-based memory to solve complex domain-specific tasks
 
-<!-- HEADER ARCHITECTURE -->
-<p align="center">
-  <code>AI AGENT ARCHITECTURE • RAG SYSTEMS • LLM ORCHESTRATION</code>
-</p>
 
-# TEJAS SURYAWANSHI
-**GENERATIVE AI DEVELOPER**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tejassuryawanshi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejassuryawanshi0001@gmail.com) 
 
-<p align="center">
-  <em>Engineering autonomous agents and RAG-powered systems that bridge Large Language Models with real-world data.</em>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=tejassuryawanshi01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=tejassuryawanshi01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tejassuryawanshi01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- NAVIGATION -->
-<p align="center">
-  <a href="https://tejas-suryawanshi.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-121212?style=for-the-badge" alt="Portfolio">
-  </a>
-  <a href="https://github.com/tejassuryawanshi01">
-    <img src="https://img.shields.io/badge/GITHUB-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/tejassuryawanshi/">
-    <img src="https://img.shields.io/badge/LINKEDIN-121212?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tejassuryawanshi01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- 01: IDENTITY & GEN AI FOCUS -->
-<table width="100%">
-  <tr>
-    <td>
-      <strong>01 • IDENTITY</strong><br/>
-      Computer Science Engineering graduate specializing in <strong>Agentic AI</strong> and <strong>Retrieval-Augmented Generation (RAG)</strong>. I focus on building intelligent chatbots and autonomous agents that utilize function calling, external tool integration, and vector-based memory to solve complex domain-specific tasks.
-    </td>
-  </tr>
-</table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tejassuryawanshi01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br/>
+---
+[![](https://komarev.com/ghpvc/?username=tejassuryawanshi01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- 02: THE GEN AI STACK -->
-### 02 • GENERATIVE AI ECOSYSTEM
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/                    buymeacoffee.com/tejassuryawanshi                ) 
 
-| **INTELLIGENCE** | **ORCHESTRATION** | **INFRASTRUCTURE** |
-| :--- | :--- | :--- |
-| **Generative AI & LLMs** | **AI Agents & Chatbots** | **Python & SQL** |
-| **RAG (Retrieval Systems)** | **Function Calling** | **Vector Search** |
-| **Prompt Engineering** | **OpenAI API & OpenRouter** | **PostgreSQL & Neon** |
-| **NLP & Machine Learning** | **Context Management** | **Clerk & Next.js** |
-
-<br/>
-
-<!-- 03: DYNAMIC ACTIVITY (THEME AWARE) -->
-### 03 • DEVELOPMENT VELOCITY
-
-<p align="left">
-  <!-- GitHub Stats Card -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tejassuryawanshi01&show_icons=true&theme=dark&hide_border=true&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA">
-    <img src="https://github-readme-stats.vercel.app/api?username=tejassuryawanshi01&show_icons=true&theme=flat&hide_border=true&title_color=121212&text_color=444444&icon_color=121212" height="150" alt="GitHub Stats" />
-  </picture>
-
-  <!-- Top Languages Card -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassuryawanshi01&layout=compact&theme=dark&hide_border=true&title_color=A78BFA&text_color=FFFFFF">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassuryawanshi01&layout=compact&theme=flat&hide_border=true&title_color=121212&text_color=444444" height="150" alt="Langs" />
-  </picture>
-</p>
-
-<br/>
-
-<!-- 04: SELECTED CASE STUDIES -->
-### 04 • SELECTED WORK
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <sub>CASE 01 / AI AGENTS</sub><br/>
-      <strong>MEDIPULSE AI</strong><br/>
-      An agentic healthcare platform with autonomous doctor agents, OCR analysis, and voice assistance.<br/>
-      <code>GenAI Agents</code> <code>Next.js</code> <code>PostgreSQL</code><br/>
-      <a href="https://ai-medical-agent-lovat.vercel.app/">Live System ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <sub>CASE 02 / COMPUTER VISION</sub><br/>
-      <strong>STRESS DETECTION SYSTEM</strong><br/>
-      Real-time behavioral stress analysis through CV landmarking and facial movement tracking.<br/>
-      <code>MediaPipe</code> <code>JavaScript</code> <code>Chart.js</code><br/>
-      <a href="https://ai-stress-detection-system-mediapipe-1.onrender.com/">Live Demo ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>CASE 03 / CHATBOTS & RAG</sub><br/>
-      <strong>AI CHATBOT ENGINE</strong><br/>
-      Retrieval-augmented conversational system utilizing OpenAI for multi-turn contextual reasoning.<br/>
-      <code>OpenAI API</code> <code>RAG</code> <code>Python</code><br/>
-      <small>SYSTEM SERVICE</small>
-    </td>
-    <td width="50%" valign="top">
-      <sub>CASE 04 / NLP</sub><br/>
-      <strong>FAKE NEWS DETECTION</strong><br/>
-      Machine Learning pipeline utilizing TF-IDF and Logistic Regression for classification tasks.<br/>
-      <code>Scikit-learn</code> <code>NLP Pipeline</code><br/>
-      <small>MODEL PIPELINE</small>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- 05: RESEARCH HIGHLIGHT -->
-### 05 • RESEARCH & PUBLICATIONS
-
-> **AI Healthcare Assistant using Machine Learning and NLP**
-> *Published 2026 • International Journal of Science, Strategic Management and Technology*
-> 
-> Investigating the synthesis of NLP and agentic workflows to enhance patient-centric assistance.
-> 
-> **DOI:** [`10.55041/ijsmt.v2i2.001`](https://doi.org/10.55041/ijsmt.v2i2.001)
-
-<br/>
-
-<!-- FOOTER -->
-<hr/>
-
-<table width="100%">
-  <tr>
-    <td align="left">
-      <code>BUILD • EXPERIMENT • ENGINEER</code>
-    </td>
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=tejassuryawanshi01&label=VISITS&style=flat-square&color=121212" alt="Profile Views">
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-<sub>© 2026 Tejas Suryawanshi</sub>
-</p>
-
-</div>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
